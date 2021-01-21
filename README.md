@@ -1,4 +1,4 @@
-# Self-Improvement chatbot based on Reinforcement Learning
+# Self-Improving Chatbots based on Reinforcement Learning
 
 Code accompanying the paper:
 
