@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/elena/Work/ReinforcementLearning/SIRL_bot/./projects/default/default/model_20190313-094729/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/Users/elena/Work/ReinforcementLearning/SIRL_bot/./projects/default/default/model_20190313-094729/intent_classifier_tensorflow_embedding.ckpt"

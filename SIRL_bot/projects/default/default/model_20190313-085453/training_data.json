@@ -1,0 +1,409 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Can you please give me a list of the types of things you can help me with"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Can you tell me what services you are able to help me with"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Do you have a list of things I can talk to you about"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Hello I am looking for some help here"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "I'd like to know what type of questions you can answer for me"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "I do not know what to ask"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Is there anything you can help me with"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Tell me about what kind of things you do"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What are my options"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What are my options that you can help with"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What are you doing here"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What do you do"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What do you handle"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What else can you help me with"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What is your specialty"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "What's your role"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Where can I find the frequently asked questions"
+      },
+      {
+        "intent": "General_Agent_Purpose",
+        "text": "Why are you here"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Bye bye"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Bye now"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Catch you later"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Cya later"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Ending this session"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "End trial"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Finished now, good bye"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Going now"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Good. bye."
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Good day"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Have a nice day"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "I am leaving"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "I am out of here"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "I have got to go"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "I'm done"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "I'm good thank you"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "I'm leaving now"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "It was nice chatting with you"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Ok goodbye"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "See you"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "See you later"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "That is all"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "That's everything"
+      },
+      {
+        "intent": "General_Ending",
+        "text": "Time to go"
+      },
+      {
+        "intent": "Hospitality_GS_Restaurants_information",
+        "text": "Can I eat my lunch at the company"
+      },
+      {
+        "intent": "Hospitality_GS_Restaurants_information",
+        "text": "Do we have a canteen"
+      },
+      {
+        "intent": "Hospitality_GS_Restaurants_information",
+        "text": "What are the restaurants available for employees"
+      },
+      {
+        "intent": "Hospitality_GS_Restaurants_information",
+        "text": "Where can I eat"
+      },
+      {
+        "intent": "Hospitality_GS_Restaurants_information",
+        "text": "Where can I find the restaurant"
+      },
+      {
+        "intent": "Hospitality_GS_Restaurants_information",
+        "text": "Where can I find the restaurants in our building"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "Anything new"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "Have you been well"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "Hey how are you doing"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "How are things going"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "How are you today"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "How have you been"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "How is it going"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "How is life"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "How r u"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "What's new"
+      },
+      {
+        "intent": "General_Greetings",
+        "text": "What's up"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is Interact"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is le 5"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is Swisscom shop"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is take-away"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is the ATM machine"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is the auditorium"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is the house of silence"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is the mailroom"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is the restaurant"
+      },
+      {
+        "intent": "Generic_finding_place",
+        "text": "Where is the squash court"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "contracted",
+        "synonyms": [
+          "third party",
+          "randstad"
+        ]
+      },
+      {
+        "value": "external",
+        "synonyms": [
+          "external events",
+          "external event"
+        ]
+      },
+      {
+        "value": "cultural",
+        "synonyms": [
+          "cultural discounts",
+          "cultural discount",
+          "cultural offer",
+          "cultural events",
+          "cultural event",
+          "cultural offers"
+        ]
+      },
+      {
+        "value": "picnic",
+        "synonyms": [
+          "family picnic"
+        ]
+      },
+      {
+        "value": "christmas party",
+        "synonyms": [
+          "new year party"
+        ]
+      },
+      {
+        "value": "social",
+        "synonyms": [
+          "organized by PMI",
+          "social event",
+          "social events"
+        ]
+      },
+      {
+        "value": "happening",
+        "synonyms": [
+          "happenings",
+          "Afterwork",
+          "Market place",
+          "After work",
+          "after-work"
+        ]
+      },
+      {
+        "value": "no",
+        "synonyms": [
+          "Nope",
+          "Not"
+        ]
+      },
+      {
+        "value": "yes",
+        "synonyms": [
+          "Yes",
+          "Yea"
+        ]
+      },
+      {
+        "value": "fitness center",
+        "synonyms": [
+          "gym",
+          "fitness"
+        ]
+      },
+      {
+        "value": "car",
+        "synonyms": [
+          "vehicle"
+        ]
+      },
+      {
+        "value": "towel",
+        "synonyms": [
+          "towels"
+        ]
+      },
+      {
+        "value": "carpet",
+        "synonyms": [
+          "carpets"
+        ]
+      },
+      {
+        "value": "clothes",
+        "synonyms": [
+          "clothing"
+        ]
+      },
+      {
+        "value": "chair",
+        "synonyms": [
+          "chairs"
+        ]
+      },
+      {
+        "value": "curtain",
+        "synonyms": [
+          "curtains"
+        ]
+      },
+      {
+        "value": "travel",
+        "synonyms": [
+          "trip",
+          "itinerary"
+        ]
+      }
+    ]
+  }
+}
