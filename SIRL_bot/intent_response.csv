@@ -1,0 +1,7 @@
+,intent,response
+0,Hospitality_GS_Restaurants_information,"Restaurants available: If you are based in Rhodanie you have various options. Le 5 is a shop where you can have a quick bite located on the 5th floor, Le Grand Restaurant located on the 4th floor and in finally on the ground floor the Wellness for a healthy and balanced meal. More about restaurants under this link.   Menus:  You can find daily and weekly information about our menus on our e-gourmet website which you can access through this link. "
+1,General_Agent_Purpose,"I can help you mainly with GS service-related questions on topics like transportation (your mobility plan/benefit car), business travel, hospitality and events, gym, mailroom etc. I know also a little about P&C (benfits, destination services) and IS services. "
+2,General_Ending,Bye bye! Thanks for the chat!
+3,General_Greetings,"I was getting bored, but now you are here."
+4,Generic_finding_place,Please consult the Rhodanie building map. 
+5,No intent detected,"Sorry, I can't help you with that. Please direct your question to the GS Local Support (GeneralServicesLocalSupportLausanne)"
